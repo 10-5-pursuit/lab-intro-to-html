@@ -85,7 +85,7 @@ The key is to use the headings to structure your information in a practical (and
 
 Make a file `recipe.html` that renders a recipe of your choice. It should include elements so that it looks very similar to this:
 
-![screenshot](./images/pbjImage.png)
+![screenshot](./images/pbjImage2.png)
 
 Include the following:
 
