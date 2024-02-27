@@ -1,0 +1,37 @@
+nav {
+  display: flex;
+  align-items: center;
+  padding: 10px 0;
+  border-bottom: 2px dashed;
+}
+
+nav h1 {
+  flex: auto;
+  margin: 0;
+  font-size: 40px;
+}
+
+nav ul {
+  display: flex;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+nav ul li a {
+  color: black;
+  font-size: 20px;
+  text-decoration: none;
+  padding: 0 10px;
+}
+
+.recipe-container {
+  display: flex;
+  align-items: center;
+}
+
+.recipe-container img {
+  width: 500px;
+  border-radius: 20px;
+  margin-right: 20px;
+}
