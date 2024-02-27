@@ -9,7 +9,7 @@
 <body>
     
     <h1>Home</h1>
-    <nav>
+    <nav class="navbar">
         <h2><a href="sundial/index.html">Sundial</a></h2>
         <h2><a href="recipe/index.html">Recipe</a></h2>
     </nav>
@@ -18,8 +18,24 @@
         *{
             font-family: "Singlet", sans-serif;
         }
+
         body {
             background: #FFEBDD;
+        }
+
+        nav {
+            display: flex;
+            justify-content:center;
+            gap: 20px;
+        }
+
+        .navbar a{
+            text-decoration: none;
+            color: black;
+        }
+
+        .navbar a:hover{
+            text-decoration: underline;
         }
     </style>
 
