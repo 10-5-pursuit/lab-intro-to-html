@@ -1,0 +1,52 @@
+body{ 
+    background-image: url(../images/background.jpg);
+    background-size: contain;
+}
+.tamales img{
+    width: 300px;
+    margin-left: 20px;
+}
+hr{
+    border-top: 1px dashed;
+}
+.ingredients-box{
+    width: fit-content;
+    height: fit-content;
+    padding-right: 10px;
+    border-radius: 5px;
+    border: 1px solid black;
+    background: #f8f8f6;
+    margin-bottom: 5px;
+}
+.ingredients-box p{
+    margin-left: 8px;
+    font-style: italic;
+}
+
+.directions-box{
+    width: 700px;
+    height: fit-content;
+    padding-right: 10px;
+    border-radius: 5px;
+    border: 1px solid black;
+    background: #f8f8f6;
+    margin-bottom: 5px;
+}
+.directions-box p{
+    margin-left: 8px;
+    font-style: italic;
+}
+.description-box{
+    width: 700px;
+    height: fit-content;
+    padding-right: 10px;
+    border-radius: 5px;
+    border: 1px solid black;
+    background: #f8f8f6;
+    margin-bottom: 5px;
+}
+.description-box p{
+    margin-left: 8px;
+    font-style: italic;
+    font-family: Georgia, serif;
+}
