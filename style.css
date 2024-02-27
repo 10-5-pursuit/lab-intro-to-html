@@ -25,6 +25,11 @@ nav ul li a {
   padding: 0 10px;
 }
 
+.content h1 {
+  text-align: center;
+  font-size: 50px;
+}
+
 .recipe-container {
   display: flex;
   align-items: center;
@@ -33,5 +38,29 @@ nav ul li a {
 .recipe-container img {
   width: 500px;
   border-radius: 20px;
-  margin-right: 20px;
+  margin: auto;
+}
+
+.recipe {
+  width: 50%;
+  margin: auto;
+}
+
+.recipe h3 {
+  text-align: center;
+}
+
+article {
+  width: 90%;
+  margin: auto;
+}
+
+article h1 {
+  text-align: center;
+  font-size: 40px;
+}
+
+article h2 {
+  text-align: center;
+  font-size: 30px;
 }
