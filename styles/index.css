@@ -1,6 +1,15 @@
 *{
     font-family: 'Courier New', Courier, monospace;
 }
+h1{
+    font-size: 40px;
+    margin-left: 20px;
+}
 li{
-    margin: 10px 0;
+    margin: 15px 0;
+    margin-left: 20px;
+    font-size: 20px;
+}
+hr{
+    border-top: 2px dashed;
 }

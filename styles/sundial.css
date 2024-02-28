@@ -1,0 +1,12 @@
+hr{
+    border: 0;
+    height: 0;
+    box-shadow: 0 0 10px 1px black;
+}
+img{
+    width: 100px;
+    margin-left: 20px; 
+}
+p{
+    margin-left: 20px;
+}
